@@ -30,3 +30,6 @@ atiplist - 刷新白名单IP并发送出来<br>
 
 - /help（默认） - 菜单命令
 - /hypban - 查询HypixelBanned数量情况
+
+## 后台示例图
+![alt text](https://s1.ax1x.com/2022/08/31/v4zSL6.png)
