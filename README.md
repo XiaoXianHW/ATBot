@@ -1,6 +1,6 @@
 # ATBot
-基于Mirai-native的CQ查询插件
-
+基于Mirai-native的CQ查询插件<br>
+（源码不会根据最新版本进行更新，源码版本为v1.0.0）
 ## 查询功能如下
 - MinecraftServer<br>
  拥有IP白名单系统，API可自定义（默认为https://api.imlazy.ink ），可以查询java和基岩<br>
