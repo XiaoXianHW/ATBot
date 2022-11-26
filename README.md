@@ -1,4 +1,6 @@
 # ATBot
+# 注意！此存库已转移到团队存库
+# https://github.com/AxT-Team/ATBot
 基于Mirai-native的CQ查询插件（使用Mirai框架加载）<br>
 
 ## 查询功能如下
